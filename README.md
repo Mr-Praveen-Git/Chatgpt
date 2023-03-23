@@ -18,3 +18,8 @@ pip install openai--https://pypi.org/project/openai/
 
 Here You Can Find Your Own API key
 API key link---https://platform.openai.com/account/api-keys
+
+
+
+
+![image](https://user-images.githubusercontent.com/94424827/227277691-009abd70-7805-4d6e-86cb-14d794e725b9.png)
