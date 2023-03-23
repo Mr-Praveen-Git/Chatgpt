@@ -8,8 +8,11 @@ pip install PyAudio
 
 Here All library links 
 pip install PyAudio--https://pypi.org/project/PyAudio/
+
 pip install SpeechRecognition--https://pypi.org/project/SpeechRecognition/
+
 pip install pyttsx3--pip install pyttsx3
+
 pip install openai--https://pypi.org/project/openai/
 
 
