@@ -1,10 +1,16 @@
 # Chatgpt
 Using python 
+
 First You Install this library's 
+
 pip install openai
+
 pip install pyttsx3
+
 pip install SpeechRecognition
+
 pip install PyAudio
+
 
 Here All library links 
 pip install PyAudio--https://pypi.org/project/PyAudio/
